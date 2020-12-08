@@ -370,7 +370,7 @@ In other words, it will receive two more units of unused space than a sibling wi
     transition: 0.5s;
 }
 
-.trainer-img:hover::after {
+.trainer:hover .trainer-img::after {
     opacity: 1;
 }
 
